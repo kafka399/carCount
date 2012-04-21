@@ -1,4 +1,5 @@
-cd /home/kafka/git/carCount/img
+#you need full path for crontab
+cd /home/git/carCount/img
 a=`date +%s`
 b=${a}_1.jpg 
 wget -O $b -q "http://www.sviesoforai.lt/map/camera.aspx?size=full&image=K213-1.jpg&rnd=0.5732720431406051"
