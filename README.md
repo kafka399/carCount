@@ -1,6 +1,6 @@
 ##Description
 
-The goal of this project is to estimate air polution in the city by utilising machine learning technique. It uses images from public surveillence cameras as an input, learns to identify the cars and counts the number of cars in a given image.
+The goal of this project is to estime number of car in the city by utilising machine learning technique. It uses images from public surveillence cameras as an input, learns to identify the cars and counts the number of cars in a given image.
 
 ##How to use it
 
