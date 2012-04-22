@@ -46,4 +46,4 @@ pred=predict(forest,cross,decision.values=TRUE)
 
 ###############copy positives into result directory###############
 dir.create('result')
-file.copy(paste('crossval/out/slide/',files[which(as.double(pred)>0.6)],sep=''),'result/')
+file.copy(paste('crossval/out/slide/',files[which(as.double(pred)>0.75)],sep=''),'result/')
