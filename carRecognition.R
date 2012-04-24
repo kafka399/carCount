@@ -1,3 +1,6 @@
+library(pixmap)
+library(e1071)
+
 setwd('/home/git/carCount/')
 
 ######read positives############
